@@ -1,0 +1,1 @@
+-- In this file you will find the SQL necessary commands to create the triggers of the db.

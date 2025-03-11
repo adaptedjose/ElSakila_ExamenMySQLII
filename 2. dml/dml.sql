@@ -1,0 +1,1 @@
+-- In this file you will find the SQL necessary commands to insert data into the tables of the db.

@@ -1,0 +1,1 @@
+-- In this file you will find the SQL commands necessary to select and extract data from the db.
